@@ -1,2 +1,2 @@
-# go-furnace-plugins
+# Go-Furnace-Plugins
 Plugins for the furnace project.
